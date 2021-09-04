@@ -1,0 +1,23 @@
+{
+  "name": "mitchells-mac-n-cheese",
+  "version": "1.0.0",
+  "description": "Server side rendered web pack web page restaurant themed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitchelldirt/Mitchells-Mac-N-Cheese.git"
+  },
+  "author": "Mitchell Mudd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitchelldirt/Mitchells-Mac-N-Cheese/issues"
+  },
+  "homepage": "https://github.com/mitchelldirt/Mitchells-Mac-N-Cheese#readme",
+  "devDependencies": {
+    "webpack": "^5.52.0",
+    "webpack-cli": "^4.8.0"
+  }
+}
