@@ -1,0 +1,10 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+    color: white;
+    background-image: url('./imgs/BLACK_VII_desktop-2.jpg');
+}    
