@@ -8,3 +8,8 @@ html {
     color: white;
     background-image: url('./imgs/BLACK_VII_desktop-2.jpg');
 }    
+
+img {
+  width: 300px;
+  height: 300px;
+}
