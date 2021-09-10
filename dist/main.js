@@ -116,7 +116,7 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, style) {\
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./styles.css */ \"./src/styles.css\");\n\nconsole.log(\"We're in business o.0\")\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./styles.css */ \"./src/styles.css\");\n/* harmony import */ var _imgs_choco_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./imgs/choco.jpg */ \"./src/imgs/choco.jpg\");\n/* harmony import */ var _imgs_d20_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./imgs/d20.png */ \"./src/imgs/d20.png\");\n/* harmony import */ var _imgs_map_background_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./imgs/map-background.png */ \"./src/imgs/map-background.png\");\n/* harmony import */ var _imgs_pow_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./imgs/pow.jpg */ \"./src/imgs/pow.jpg\");\n/* harmony import */ var _imgs_drag_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./imgs/drag.jpg */ \"./src/imgs/drag.jpg\");\n\n\n\n\n\n\nconsole.log(\"We're in business o.0\")\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/index.js?");
 
 /***/ }),
 
@@ -127,6 +127,56 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("module.exports = __webpack_require__.p + \"30fa62f87934954d7e91.jpg\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/BLACK_VII_desktop-2.jpg?");
+
+/***/ }),
+
+/***/ "./src/imgs/choco.jpg":
+/*!****************************!*\
+  !*** ./src/imgs/choco.jpg ***!
+  \****************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"42574ffd71be2ece4426.jpg\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/choco.jpg?");
+
+/***/ }),
+
+/***/ "./src/imgs/d20.png":
+/*!**************************!*\
+  !*** ./src/imgs/d20.png ***!
+  \**************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"26f9a360dfcb549cacf6.png\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/d20.png?");
+
+/***/ }),
+
+/***/ "./src/imgs/drag.jpg":
+/*!***************************!*\
+  !*** ./src/imgs/drag.jpg ***!
+  \***************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"26127562d7889a7fd1e4.jpg\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/drag.jpg?");
+
+/***/ }),
+
+/***/ "./src/imgs/map-background.png":
+/*!*************************************!*\
+  !*** ./src/imgs/map-background.png ***!
+  \*************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"a4be9c42c76f2124f01d.png\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/map-background.png?");
+
+/***/ }),
+
+/***/ "./src/imgs/pow.jpg":
+/*!**************************!*\
+  !*** ./src/imgs/pow.jpg ***!
+  \**************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"3d72c9d570c0e6d52cf9.jpg\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/pow.jpg?");
 
 /***/ })
 
