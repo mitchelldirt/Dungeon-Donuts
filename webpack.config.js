@@ -7,13 +7,9 @@ module.exports = {
         path: path.resolve(__dirname, 'dist'),
     },
     devServer: {
-        static: './dist',
-        compress: true,
-        port: 3000,
-        proxy: [{
-            target: 'http://localhost:3000',
-        }]
-    },
+        static: './dist'   
+     }      
+    ,
     mode: 'development',
     module: {
         rules: [
