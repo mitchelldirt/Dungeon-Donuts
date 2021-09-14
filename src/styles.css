@@ -1,3 +1,14 @@
+@font-face {
+  font-family: 'Script';
+  src: url('./Tangerine-Regular.ttf');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Headers';
+  src: url('./MedievalSharp-Regular.ttf');
+  font-style: normal;
+}
 html {
     color: white;
     background-image: url('./imgs/BLACK_VII_desktop-2.jpg');
@@ -18,10 +29,26 @@ p, h1, h2, a {
   text-align: center;
 }
 
-a {
+
+h1 {
+font-family: 'Headers';
+}
+
+h2 {
+font-family: 'Headers';
+}
+
+p {
+font-family: 'Script';
+}
+
+a, address {
   text-decoration: none;
   color: black;
   text-align: center;
+  font-family: "Script";
+font-weight: bold;
+font-size: 1.25em;
 }
 
 nav {
@@ -39,4 +66,13 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.emphasis {
+  font-family: 'Headers';
+}
+
+.address {
+  color: aquamarine;
+  text-decoration: none;
 }
