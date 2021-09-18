@@ -1,9 +1,10 @@
+import mapImg from '/src/imgs/map-background.png'
 export default function () {
     let main = document.createElement('main');
     let heading = document.createElement('h1');
     heading.textContent = "Adventure on by :)";
     let map = document.createElement('img');
-    map.src = '/src/imgs/map-background.png';
+    map.src = mapImg;
     map.alt = 'A map with multiple fantasy worlds listed on it that shows where Dungeon Donuts would be if real.';
     let mapKey = document.createElement('p');
     mapKey.textContent = "1 square = 25 miles";
