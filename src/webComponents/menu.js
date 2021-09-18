@@ -30,7 +30,7 @@ export function menu() {
     let beholder = createMenuItem("$1.50 Beholders Chocolate", beholderImg, "Picture of a beholder, a creature from dungeons and dragons.", "The chocolate Donut that stares back at you.");
     let mimic = createMenuItem("$1.50 Mimic Marshmallow", mimicImg, "Image of a mimic, a creature from dungeons and dragons.", "Shape shifts into the marshmallow donut of your dreams!");
     let goblin = createMenuItem("$1.50 Glazed Goblin", goblinImg, "Image of a goblin, a classic fantasy creature.", "Classic Monster - Classic Donut");
-    let dragon = createMenuItem("$1.50 The Dragon", dragonImg, "The Dungeon Donuts logo.");
+    let dragon = createMenuItem("$1.50 The Dragon", dragonImg, "The Dungeon Donuts logo.", "The signature donut of Dungeon Donuts. Raspberry chocolate goodness!");
     let tavern = createMenuItem("$1.50 The Tavern Twist", tavernImg, "Image of some adventurers sitting around a table in a tavern.", "Four of you are sitting around a table. Introduce yourself.");
     center.appendChild(dungDozen);
     center.appendChild(beholder);
