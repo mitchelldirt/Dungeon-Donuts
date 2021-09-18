@@ -75,6 +75,13 @@ main {
   align-items: center;
 }
 
+.attribution {
+  font-size: .5em;
+  color: red;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  line-break: normal;
+}
+
 .emphasis {
   font-family: "Headers";
 }
