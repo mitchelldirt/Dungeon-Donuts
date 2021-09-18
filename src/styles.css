@@ -1,18 +1,18 @@
 @font-face {
-  font-family: 'Script';
-  src: url('./Tangerine-Regular.ttf');
+  font-family: "Script";
+  src: url("./Tangerine-Regular.ttf");
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Headers';
-  src: url('./MedievalSharp-Regular.ttf');
+  font-family: "Headers";
+  src: url("./MedievalSharp-Regular.ttf");
   font-style: normal;
 }
 html {
-    color: white;
-    background-image: url('./imgs/BLACK_VII_desktop-2.jpg');
-}    
+  color: white;
+  background-image: url("./imgs/BLACK_VII_desktop-2.jpg");
+}
 
 img {
   width: 300px;
@@ -25,33 +25,37 @@ nav {
   justify-content: space-between;
 }
 
-p, h1, h2, a {
+p,
+h1,
+h2,
+a {
   text-align: center;
 }
 
-
 h1 {
-font-family: 'Headers';
-font-size: 2em;
+  font-family: "Headers";
+  font-size: 2em;
 }
 
 h2 {
-font-family: 'Headers';
-font-size: 1.5em;
+  font-family: "Headers";
+  font-size: 1.5em;
 }
 
 p {
-font-family: 'Script';
-font-size: 1.75em
+  font-family: "Script";
+  font-size: 1.75em;
 }
 
-a, address {
+a,
+address,
+button {
   text-decoration: none;
   color: black;
   text-align: center;
   font-family: "Script";
-font-weight: bold;
-font-size: 1.25em;
+  font-weight: bold;
+  font-size: 1.25em;
 }
 
 nav {
@@ -72,7 +76,7 @@ main {
 }
 
 .emphasis {
-  font-family: 'Headers';
+  font-family: "Headers";
 }
 
 .address {
@@ -86,15 +90,15 @@ main {
 
 .box {
   border-radius: 20px/60px;
-    border: 5px solid red;
-    padding: 30px;
-    margin-bottom: 2%;
+  border: 5px solid red;
+  padding: 30px;
+  margin-bottom: 2%;
 }
 
 @media (min-width: 600px) {
   img {
-width: 400px;
-height: 400px
+    width: 400px;
+    height: 400px;
   }
 
   h1 {
@@ -109,7 +113,9 @@ height: 400px
     font-size: 2.25em;
   }
 
-  a, .address {
+  a,
+  .address,
+  button {
     font-size: 2em;
   }
 }

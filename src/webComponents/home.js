@@ -1,5 +1,5 @@
-export default function () {
-    let main = document.createElement('main');
+export function createHome() {
+    const main = document.createElement('main');
     let inclusivity = document.createElement('p');
     inclusivity.classList.add('emphasis');
     inclusivity.textContent = "100% Vegan";
@@ -24,6 +24,5 @@ export default function () {
     main.appendChild(logo)
     main.appendChild(hook)
     main.appendChild(hook2)
-    let content = document.getElementById("content");
-    content.appendChild(main);
-}
+    return main;
+};
