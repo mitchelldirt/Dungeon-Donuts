@@ -16,7 +16,7 @@
   \**************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ./Tangerine-Regular.ttf */ \"./src/Tangerine-Regular.ttf\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(/*! ./MedievalSharp-Regular.ttf */ \"./src/MedievalSharp-Regular.ttf\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_2___ = new URL(/* asset import */ __webpack_require__(/*! ./imgs/BLACK_VII_desktop-2.jpg */ \"./src/imgs/BLACK_VII_desktop-2.jpg\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(___CSS_LOADER_URL_IMPORT_0___);\nvar ___CSS_LOADER_URL_REPLACEMENT_1___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(___CSS_LOADER_URL_IMPORT_1___);\nvar ___CSS_LOADER_URL_REPLACEMENT_2___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(___CSS_LOADER_URL_IMPORT_2___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"@font-face {\\n  font-family: 'Script';\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_0___ + \");\\n  font-style: normal;\\n}\\n\\n@font-face {\\n  font-family: 'Headers';\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_1___ + \");\\n  font-style: normal;\\n}\\nhtml {\\n    color: white;\\n    background-image: url(\" + ___CSS_LOADER_URL_REPLACEMENT_2___ + \");\\n}    \\n\\nimg {\\n  width: 300px;\\n  height: 300px;\\n}\\n\\nnav {\\n  display: flex;\\n  flex-direction: row;\\n  justify-content: space-between;\\n}\\n\\np, h1, h2, a {\\n  text-align: center;\\n}\\n\\n\\nh1 {\\nfont-family: 'Headers';\\nfont-size: 2em;\\n}\\n\\nh2 {\\nfont-family: 'Headers';\\nfont-size: 1.5em;\\n}\\n\\np {\\nfont-family: 'Script';\\nfont-size: 1.75em\\n}\\n\\na, address {\\n  text-decoration: none;\\n  color: black;\\n  text-align: center;\\n  font-family: \\\"Script\\\";\\nfont-weight: bold;\\nfont-size: 1.25em;\\n}\\n\\nnav {\\n  background-color: red;\\n}\\n\\nbutton {\\n  background-color: red;\\n  width: 100%;\\n  height: 100%;\\n  border: 3px solid black;\\n}\\n\\nmain {\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center;\\n}\\n\\n.emphasis {\\n  font-family: 'Headers';\\n}\\n\\n.address {\\n  color: aquamarine;\\n  text-decoration: none;\\n}\\n\\n.allTheWidth {\\n  width: 100%;\\n}\\n\\n.box {\\n  border-radius: 20px/60px;\\n    border: 5px solid red;\\n    padding: 30px;\\n    margin-bottom: 2%;\\n}\\n\\n@media (min-width: 600px) {\\n  img {\\nwidth: 400px;\\nheight: 400px\\n  }\\n\\n  h1 {\\n    font-size: 2.5em;\\n  }\\n\\n  h2 {\\n    font-size: 2em;\\n  }\\n\\n  p {\\n    font-size: 2.25em;\\n  }\\n\\n  a, .address {\\n    font-size: 2em;\\n  }\\n}\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/styles.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ./Tangerine-Regular.ttf */ \"./src/Tangerine-Regular.ttf\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(/*! ./MedievalSharp-Regular.ttf */ \"./src/MedievalSharp-Regular.ttf\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_2___ = new URL(/* asset import */ __webpack_require__(/*! ./imgs/BLACK_VII_desktop-2.jpg */ \"./src/imgs/BLACK_VII_desktop-2.jpg\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(___CSS_LOADER_URL_IMPORT_0___);\nvar ___CSS_LOADER_URL_REPLACEMENT_1___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(___CSS_LOADER_URL_IMPORT_1___);\nvar ___CSS_LOADER_URL_REPLACEMENT_2___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(___CSS_LOADER_URL_IMPORT_2___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"@font-face {\\n  font-family: \\\"Script\\\";\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_0___ + \");\\n  font-style: normal;\\n}\\n\\n@font-face {\\n  font-family: \\\"Headers\\\";\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_1___ + \");\\n  font-style: normal;\\n}\\nhtml {\\n  color: white;\\n  background-image: url(\" + ___CSS_LOADER_URL_REPLACEMENT_2___ + \");\\n}\\n\\nimg {\\n  width: 300px;\\n  height: 300px;\\n}\\n\\nnav {\\n  display: flex;\\n  flex-direction: row;\\n  justify-content: space-between;\\n}\\n\\np,\\nh1,\\nh2,\\na {\\n  text-align: center;\\n}\\n\\nh1 {\\n  font-family: \\\"Headers\\\";\\n  font-size: 2em;\\n}\\n\\nh2 {\\n  font-family: \\\"Headers\\\";\\n  font-size: 1.5em;\\n}\\n\\np {\\n  font-family: \\\"Script\\\";\\n  font-size: 1.75em;\\n}\\n\\na,\\naddress,\\nbutton {\\n  text-decoration: none;\\n  color: black;\\n  text-align: center;\\n  font-family: \\\"Script\\\";\\n  font-weight: bold;\\n  font-size: 1.25em;\\n}\\n\\nnav {\\n  background-color: red;\\n}\\n\\nbutton {\\n  background-color: red;\\n  width: 100%;\\n  height: 100%;\\n  border: 3px solid black;\\n}\\n\\nmain {\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center;\\n}\\n\\n.emphasis {\\n  font-family: \\\"Headers\\\";\\n}\\n\\n.address {\\n  color: aquamarine;\\n  text-decoration: none;\\n}\\n\\n.allTheWidth {\\n  width: 100%;\\n}\\n\\n.box {\\n  border-radius: 20px/60px;\\n  border: 5px solid red;\\n  padding: 30px;\\n  margin-bottom: 2%;\\n}\\n\\n@media (min-width: 600px) {\\n  img {\\n    width: 400px;\\n    height: 400px;\\n  }\\n\\n  h1 {\\n    font-size: 2.5em;\\n  }\\n\\n  h2 {\\n    font-size: 2em;\\n  }\\n\\n  p {\\n    font-size: 2.25em;\\n  }\\n\\n  a,\\n  .address,\\n  button {\\n    font-size: 2em;\\n  }\\n}\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/styles.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -116,7 +116,37 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, style) {\
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _imgs_tavern_jpg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./imgs/tavern.jpg */ \"./src/imgs/tavern.jpg\");\n/* harmony import */ var _imgs_d20_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./imgs/d20.png */ \"./src/imgs/d20.png\");\n/* harmony import */ var _imgs_map_background_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./imgs/map-background.png */ \"./src/imgs/map-background.png\");\n/* harmony import */ var _imgs_goblin_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./imgs/goblin.png */ \"./src/imgs/goblin.png\");\n/* harmony import */ var _imgs_drag_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./imgs/drag.jpg */ \"./src/imgs/drag.jpg\");\n/* harmony import */ var _imgs_mimic_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./imgs/mimic.png */ \"./src/imgs/mimic.png\");\n/* harmony import */ var _imgs_beholder_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./imgs/beholder.png */ \"./src/imgs/beholder.png\");\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./styles.css */ \"./src/styles.css\");\n\n\n\n\n\n\n\n\nconsole.log(\"We're in business o.0\")\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _webComponents_home_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./webComponents/home.js */ \"./src/webComponents/home.js\");\n/* harmony import */ var _webComponents_menu__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./webComponents/menu */ \"./src/webComponents/menu.js\");\n/* harmony import */ var _webComponents_contact__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./webComponents/contact */ \"./src/webComponents/contact.js\");\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./styles.css */ \"./src/styles.css\");\n\n\n\n\n\nfunction removeAllChildNodes(parent) {\n    while (parent.firstChild) {\n        parent.removeChild(parent.firstChild);\n    }\n}\n\nlet mainContent = document.getElementById('content');\nmainContent.appendChild((0,_webComponents_home_js__WEBPACK_IMPORTED_MODULE_0__.createHome)());\n\nlet homeButton = document.getElementById(\"homeButton\")\nhomeButton.onclick = () => {\n    removeAllChildNodes(mainContent);\n    mainContent.appendChild((0,_webComponents_home_js__WEBPACK_IMPORTED_MODULE_0__.createHome)());\n};\n\nlet menuButton = document.getElementById(\"menuButton\");\nmenuButton.onclick = () => {\n    removeAllChildNodes(mainContent);\n    mainContent.appendChild((0,_webComponents_menu__WEBPACK_IMPORTED_MODULE_1__.menu)());\n};\n\nlet contactButton = document.getElementById(\"contactButton\");\ncontactButton.onclick = () => {\n    removeAllChildNodes(mainContent);\n    mainContent.appendChild((0,_webComponents_contact__WEBPACK_IMPORTED_MODULE_2__[\"default\"])());\n};\n\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/index.js?");
+
+/***/ }),
+
+/***/ "./src/webComponents/contact.js":
+/*!**************************************!*\
+  !*** ./src/webComponents/contact.js ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* export default binding */ __WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ function __WEBPACK_DEFAULT_EXPORT__() {\n    let main = document.createElement('main');\n    let heading = document.createElement('h1');\n    heading.textContent = \"Adventure on by :)\";\n    let map = document.createElement('img');\n    map.src = '/src/imgs/map-background.png';\n    map.alt = 'A map with multiple fantasy worlds listed on it that shows where Dungeon Donuts would be if real.';\n    let mapKey = document.createElement('p');\n    mapKey.textContent = \"1 square = 25 miles\";\n    let heading2 = document.createElement('h2');\n    heading2.textContent = \"Give us a side quest below!\";\n    let address1 = document.createElement('address');\n    let anchor1 = document.createElement('a');\n    anchor1.classList.add('address');\n    anchor1.href = \"tel:+01238675309\";\n    anchor1.textContent = \"123-867-5309\";\n    address1.appendChild(anchor1);\n    let address2 = document.createElement('address');\n    let anchor2 = document.createElement('a');\n    anchor2.classList.add('address');\n    anchor2.href = \"mailto:DmNotGm@faerun.com\";\n    anchor2.textContent = \"DmNotGm@faerun.com\";\n    address2.appendChild(anchor2);\n    main.appendChild(heading);\n    main.appendChild(map);\n    main.appendChild(mapKey);\n    main.appendChild(heading2);\n    main.appendChild(address1);\n    main.appendChild(address2);\n    return main;\n}\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/webComponents/contact.js?");
+
+/***/ }),
+
+/***/ "./src/webComponents/home.js":
+/*!***********************************!*\
+  !*** ./src/webComponents/home.js ***!
+  \***********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"createHome\": () => (/* binding */ createHome)\n/* harmony export */ });\nfunction createHome() {\n    const main = document.createElement('main');\n    let inclusivity = document.createElement('p');\n    inclusivity.classList.add('emphasis');\n    inclusivity.textContent = \"100% Vegan\";\n    let inclusivity2 = document.createElement('p');\n    inclusivity2.classList.add('emphasis');\n    inclusivity2.textContent = \"All adventurers welcome here!\";\n    let blurb = document.createElement('p');\n    blurb.textContent = \"We sell only the highest quality ingredients for the highest quality adventurers.\\\n    Whether you prefer the sword, bow, or staff all are welcome here at Dungeon Donuts! Ask about our free armor trimming!\";\n    let logo = document.createElement('img');\n    logo.src = '/src/imgs/drag.jpg';\n    logo.alt = \"Dungeon Donuts Logo\"\n    let hook = document.createElement('p');\n    hook.classList.add('emphasis');\n    hook.textContent = \"Adventure on by\";\n    let hook2 = document.createElement('p');\n    hook2.classList.add('emphasis');\n    hook2.textContent = \"In person or online today!\";\n    main.appendChild(inclusivity)\n    main.appendChild(inclusivity2)\n    main.appendChild(blurb)\n    main.appendChild(logo)\n    main.appendChild(hook)\n    main.appendChild(hook2)\n    return main;\n};\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/webComponents/home.js?");
+
+/***/ }),
+
+/***/ "./src/webComponents/menu.js":
+/*!***********************************!*\
+  !*** ./src/webComponents/menu.js ***!
+  \***********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"createMenuItem\": () => (/* binding */ createMenuItem),\n/* harmony export */   \"menu\": () => (/* binding */ menu)\n/* harmony export */ });\nfunction createMenuItem(h2, src, alt, p) {\n    let container = document.createElement('div');\n    container.classList.add('box');\n    let header = document.createElement('h2')\n    header.textContent = `${h2}`;\n    let image = document.createElement('img')\n    image.src = `${src}`;\n    image.alt = `${alt}`;\n    let description = document.createElement('p');\n    description.textContent = `${p}`;\n    container.appendChild(header);\n    container.appendChild(image);\n    container.appendChild(description);\n    return container;\n}\n\nfunction menu() {\n    let main = document.createElement('main');\n    let center = document.createElement('center');\n    let h1 = document.createElement('h1');\n    h1.textContent = \"Gaze upon thine donuts if ye dares\";\n    center.appendChild(h1);\n    let dungDozen = createMenuItem(\"$10 Dungeoneers Dozen\", \"/src/imgs/d20.png\", \"Image of a twenty sided die.\", \"Roll a D20 to find out how many donuts you get\");\n    let beholder = createMenuItem(\"$1.50 Beholders Chocolate\", \"/src/imgs/beholder.png\", \"Picture of a beholder, a creature from dungeons and dragons.\", \"The chocolate Donut that stares back at you.\");\n    let mimic = createMenuItem(\"$1.50 Mimic Marshmallow\", \"/src/imgs/mimic.png\", \"Image of a mimic, a creature from dungeons and dragons.\", \"Shape shifts into the marshmallow donut of your dreams!\");\n    let goblin = createMenuItem(\"$1.50 Glazed Goblin\", \"/src/imgs/goblin.png\", \"Image of a goblin, a classic fantasy creature.\", \"Classic Monster - Classic Donut\");\n    let dragon = createMenuItem(\"$1.50 The Dragon\", \"/src/imgs/drag.jpg\", \"The Dungeon Donuts logo.\");\n    let tavern = createMenuItem(\"$1.50 The Tavern Twist\", \"/src/imgs/tavern.jpg\", \"Image of some adventurers sitting around a table in a tavern.\", \"Four of you are sitting around a table. Introduce yourself.\");\n    center.appendChild(dungDozen);\n    center.appendChild(beholder);\n    center.appendChild(mimic);\n    center.appendChild(goblin);\n    center.appendChild(dragon);\n    center.appendChild(tavern);\n    main.appendChild(center);\n    return main;\n}\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/webComponents/menu.js?");
 
 /***/ }),
 
@@ -147,76 +177,6 @@ eval("module.exports = __webpack_require__.p + \"76cd09ef338bc969dd89.ttf\";\n\n
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("module.exports = __webpack_require__.p + \"30fa62f87934954d7e91.jpg\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/BLACK_VII_desktop-2.jpg?");
-
-/***/ }),
-
-/***/ "./src/imgs/beholder.png":
-/*!*******************************!*\
-  !*** ./src/imgs/beholder.png ***!
-  \*******************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"94ff9b653704e523fde5.png\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/beholder.png?");
-
-/***/ }),
-
-/***/ "./src/imgs/d20.png":
-/*!**************************!*\
-  !*** ./src/imgs/d20.png ***!
-  \**************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"26f9a360dfcb549cacf6.png\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/d20.png?");
-
-/***/ }),
-
-/***/ "./src/imgs/drag.jpg":
-/*!***************************!*\
-  !*** ./src/imgs/drag.jpg ***!
-  \***************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"26127562d7889a7fd1e4.jpg\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/drag.jpg?");
-
-/***/ }),
-
-/***/ "./src/imgs/goblin.png":
-/*!*****************************!*\
-  !*** ./src/imgs/goblin.png ***!
-  \*****************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"cada273b65b8a2911494.png\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/goblin.png?");
-
-/***/ }),
-
-/***/ "./src/imgs/map-background.png":
-/*!*************************************!*\
-  !*** ./src/imgs/map-background.png ***!
-  \*************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"a4be9c42c76f2124f01d.png\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/map-background.png?");
-
-/***/ }),
-
-/***/ "./src/imgs/mimic.png":
-/*!****************************!*\
-  !*** ./src/imgs/mimic.png ***!
-  \****************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"e0f3cf032efbc3641496.png\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/mimic.png?");
-
-/***/ }),
-
-/***/ "./src/imgs/tavern.jpg":
-/*!*****************************!*\
-  !*** ./src/imgs/tavern.jpg ***!
-  \*****************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"72ea111bc0ae5fe9c070.jpg\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/tavern.jpg?");
 
 /***/ })
 
