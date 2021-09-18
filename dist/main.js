@@ -116,7 +116,7 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, style) {\
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _webComponents_home_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./webComponents/home.js */ \"./src/webComponents/home.js\");\n/* harmony import */ var _webComponents_menu__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./webComponents/menu */ \"./src/webComponents/menu.js\");\n/* harmony import */ var _webComponents_contact__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./webComponents/contact */ \"./src/webComponents/contact.js\");\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./styles.css */ \"./src/styles.css\");\n\n\n\n\n\nfunction removeAllChildNodes(parent) {\n    while (parent.firstChild) {\n        parent.removeChild(parent.firstChild);\n    }\n}\n\nlet mainContent = document.getElementById('content');\nmainContent.appendChild((0,_webComponents_home_js__WEBPACK_IMPORTED_MODULE_0__.createHome)());\n\nlet homeButton = document.getElementById(\"homeButton\")\nhomeButton.onclick = () => {\n    removeAllChildNodes(mainContent);\n    mainContent.appendChild((0,_webComponents_home_js__WEBPACK_IMPORTED_MODULE_0__.createHome)());\n};\n\nlet menuButton = document.getElementById(\"menuButton\");\nmenuButton.onclick = () => {\n    removeAllChildNodes(mainContent);\n    mainContent.appendChild((0,_webComponents_menu__WEBPACK_IMPORTED_MODULE_1__.menu)());\n};\n\nlet contactButton = document.getElementById(\"contactButton\");\ncontactButton.onclick = () => {\n    removeAllChildNodes(mainContent);\n    mainContent.appendChild((0,_webComponents_contact__WEBPACK_IMPORTED_MODULE_2__[\"default\"])());\n};\n\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _imgs_tavern_jpg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./imgs/tavern.jpg */ \"./src/imgs/tavern.jpg\");\n/* harmony import */ var _imgs_d20_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./imgs/d20.png */ \"./src/imgs/d20.png\");\n/* harmony import */ var _imgs_map_background_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./imgs/map-background.png */ \"./src/imgs/map-background.png\");\n/* harmony import */ var _imgs_goblin_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./imgs/goblin.png */ \"./src/imgs/goblin.png\");\n/* harmony import */ var _imgs_drag_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./imgs/drag.jpg */ \"./src/imgs/drag.jpg\");\n/* harmony import */ var _imgs_mimic_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./imgs/mimic.png */ \"./src/imgs/mimic.png\");\n/* harmony import */ var _imgs_beholder_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./imgs/beholder.png */ \"./src/imgs/beholder.png\");\n/* harmony import */ var _webComponents_home_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./webComponents/home.js */ \"./src/webComponents/home.js\");\n/* harmony import */ var _webComponents_menu__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./webComponents/menu */ \"./src/webComponents/menu.js\");\n/* harmony import */ var _webComponents_contact__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./webComponents/contact */ \"./src/webComponents/contact.js\");\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./styles.css */ \"./src/styles.css\");\n\n\n\n\n\n\n\n\n\n\n\n\nfunction removeAllChildNodes(parent) {\n    while (parent.firstChild) {\n        parent.removeChild(parent.firstChild);\n    }\n}\n\nlet mainContent = document.getElementById('content');\nmainContent.appendChild((0,_webComponents_home_js__WEBPACK_IMPORTED_MODULE_7__.createHome)());\n\nlet homeButton = document.getElementById(\"homeButton\")\nhomeButton.onclick = () => {\n    removeAllChildNodes(mainContent);\n    mainContent.appendChild((0,_webComponents_home_js__WEBPACK_IMPORTED_MODULE_7__.createHome)());\n};\n\nlet menuButton = document.getElementById(\"menuButton\");\nmenuButton.onclick = () => {\n    removeAllChildNodes(mainContent);\n    mainContent.appendChild((0,_webComponents_menu__WEBPACK_IMPORTED_MODULE_8__.menu)());\n};\n\nlet contactButton = document.getElementById(\"contactButton\");\ncontactButton.onclick = () => {\n    removeAllChildNodes(mainContent);\n    mainContent.appendChild((0,_webComponents_contact__WEBPACK_IMPORTED_MODULE_9__[\"default\"])());\n};\n\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/index.js?");
 
 /***/ }),
 
@@ -177,6 +177,76 @@ eval("module.exports = __webpack_require__.p + \"76cd09ef338bc969dd89.ttf\";\n\n
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("module.exports = __webpack_require__.p + \"30fa62f87934954d7e91.jpg\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/BLACK_VII_desktop-2.jpg?");
+
+/***/ }),
+
+/***/ "./src/imgs/beholder.png":
+/*!*******************************!*\
+  !*** ./src/imgs/beholder.png ***!
+  \*******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"94ff9b653704e523fde5.png\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/beholder.png?");
+
+/***/ }),
+
+/***/ "./src/imgs/d20.png":
+/*!**************************!*\
+  !*** ./src/imgs/d20.png ***!
+  \**************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"26f9a360dfcb549cacf6.png\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/d20.png?");
+
+/***/ }),
+
+/***/ "./src/imgs/drag.jpg":
+/*!***************************!*\
+  !*** ./src/imgs/drag.jpg ***!
+  \***************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"26127562d7889a7fd1e4.jpg\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/drag.jpg?");
+
+/***/ }),
+
+/***/ "./src/imgs/goblin.png":
+/*!*****************************!*\
+  !*** ./src/imgs/goblin.png ***!
+  \*****************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"cada273b65b8a2911494.png\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/goblin.png?");
+
+/***/ }),
+
+/***/ "./src/imgs/map-background.png":
+/*!*************************************!*\
+  !*** ./src/imgs/map-background.png ***!
+  \*************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"a4be9c42c76f2124f01d.png\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/map-background.png?");
+
+/***/ }),
+
+/***/ "./src/imgs/mimic.png":
+/*!****************************!*\
+  !*** ./src/imgs/mimic.png ***!
+  \****************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"e0f3cf032efbc3641496.png\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/mimic.png?");
+
+/***/ }),
+
+/***/ "./src/imgs/tavern.jpg":
+/*!*****************************!*\
+  !*** ./src/imgs/tavern.jpg ***!
+  \*****************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"72ea111bc0ae5fe9c070.jpg\";\n\n//# sourceURL=webpack://mitchells-mac-n-cheese/./src/imgs/tavern.jpg?");
 
 /***/ })
 
