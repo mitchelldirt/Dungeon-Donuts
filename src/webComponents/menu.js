@@ -41,7 +41,7 @@ export function menu() {
     let attribution1 = document.createElement('a');
     attribution1.classList.add('attribution');
     attribution1.href = "https://images.mmorpg.com/features/10169/images/Beholder1_t.png";
-    attribution1.textContent = "Beholder image created by MMORPG.com<br>";
+    attribution1.textContent = "Beholder image created by MMORPG.com";
     let attribution2 = document.createElement('a');
     attribution2.classList.add('attribution');
     attribution2.textContent = "Mimic art done by Blazbaros on DeviantArt";
