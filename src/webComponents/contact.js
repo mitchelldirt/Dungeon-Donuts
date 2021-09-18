@@ -1,4 +1,4 @@
-import mapImg from '/src/imgs/map-background.png'
+import mapImg from '/workspace/Dungeon-Donuts/src/imgs/map-background.png'
 export default function () {
     let main = document.createElement('main');
     let heading = document.createElement('h1');

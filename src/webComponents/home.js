@@ -1,3 +1,4 @@
+import dragonImg from '/workspace/Dungeon-Donuts/src/imgs/drag.jpg'
 export function createHome() {
     const main = document.createElement('main');
     let inclusivity = document.createElement('p');
@@ -10,7 +11,7 @@ export function createHome() {
     blurb.textContent = "We sell only the highest quality ingredients for the highest quality adventurers.\
     Whether you prefer the sword, bow, or staff all are welcome here at Dungeon Donuts! Ask about our free armor trimming!";
     let logo = document.createElement('img');
-    logo.src = '/src/imgs/drag.jpg';
+    logo.src = dragonImg;
     logo.alt = "Dungeon Donuts Logo"
     let hook = document.createElement('p');
     hook.classList.add('emphasis');
