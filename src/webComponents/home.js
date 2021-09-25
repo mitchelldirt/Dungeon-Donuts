@@ -1,4 +1,4 @@
-import dragonImg from '/workspace/Dungeon-Donuts/src/imgs/drag.jpg'
+import dragonImg from '/workspace/Dungeon-Donuts/src/imgs/DungeonDonutsLogo.png'
 export function createHome() {
     const main = document.createElement('main');
     let inclusivity = document.createElement('p');

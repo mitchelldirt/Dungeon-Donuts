@@ -1,5 +1,5 @@
 import goblinImg from '/workspace/Dungeon-Donuts/src/imgs/goblin.png';
-import dragonImg from '/workspace/Dungeon-Donuts/src/imgs/drag.jpg';
+import dragonImg from '/workspace/Dungeon-Donuts/src/imgs/DungeonDonutsLogoNN.png';
 import mimicImg from '/workspace/Dungeon-Donuts/src/imgs/mimic.png';
 import beholderImg from '/workspace/Dungeon-Donuts/src/imgs/beholder.png';
 import tavernImg from '/workspace/Dungeon-Donuts/src/imgs/tavern.jpg';
